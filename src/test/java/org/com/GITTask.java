@@ -9,5 +9,17 @@ public class GITTask {
 }
 	public void three() {
 		System.out.println("three");
+
 }
+	public void math() {
+		System.out.println("add");
+	}
+	public void science() {
+		System.out.println("physics");
+	}
+	public void social() {
+		System.out.println("civic");
+	}
+	
+	
 }
