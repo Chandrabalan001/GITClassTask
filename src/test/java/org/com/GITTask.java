@@ -20,6 +20,11 @@ public class GITTask {
 	public void social() {
 		System.out.println("civic");
 	}
+	public void tamil() {		System.out.println("tamil");
+}
+	public void english() {		System.out.println("english");
+}
+	
 	
 	
 }
