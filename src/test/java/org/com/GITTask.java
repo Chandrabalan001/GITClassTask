@@ -20,6 +20,15 @@ public class GITTask {
 	public void social() {
 		System.out.println("civic");
 	}
+	public void mtd1() {
+		System.out.println("1");
+	}
+	public void mtd2() {
+		System.out.println("2");
+	}
+	public void mtd3() {
+		System.out.println("3");
+	}
 	
 	
 }
